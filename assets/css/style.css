@@ -545,7 +545,7 @@ section {
 # Why Us
 --------------------------------------------------------------*/
 .why-us {
-  background-image: linear-gradient(rgb(27, 27, 27), rgb(27, 27, 27, 0.7), rgba(27, 27, 27, 0.7), rgb(27, 27, 27)) ,  url('../img/team/BG2.jpg');
+  background-image: linear-gradient(rgb(27, 27, 27), rgb(27, 27, 27, 0.7), rgba(27, 27, 27, 0.7), rgb(27, 27, 27)) ,  url('https://cdn.jsdelivr.net/gh/cwpslxck/TestWebs@main/assets/img/team/bg2.jpg');
   background-size: contain;
   background-repeat: repeat;
 
